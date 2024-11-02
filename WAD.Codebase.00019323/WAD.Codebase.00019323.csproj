@@ -23,11 +23,4 @@
 	</PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-	<Folder Include="DTOs\" />
-	<Folder Include="Mapping\" />
-	<Folder Include="Interfaces\" />
-	<Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
