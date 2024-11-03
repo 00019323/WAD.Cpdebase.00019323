@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace WAD.Codebase._00019323.Migrations
+namespace WAD.Codebase._00019323.DAL.Migrations
 {
     /// <inheritdoc />
     public partial class NewspaperAppMigration : Migration

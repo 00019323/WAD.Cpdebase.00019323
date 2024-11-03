@@ -8,7 +8,7 @@ using WAD.Codebase._00019323.Data;
 
 #nullable disable
 
-namespace WAD.Codebase._00019323.Migrations
+namespace WAD.Codebase._00019323.DAL.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot

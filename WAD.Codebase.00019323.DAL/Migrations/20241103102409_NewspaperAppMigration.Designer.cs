@@ -9,10 +9,10 @@ using WAD.Codebase._00019323.Data;
 
 #nullable disable
 
-namespace WAD.Codebase._00019323.Migrations
+namespace WAD.Codebase._00019323.DAL.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241102184703_NewspaperAppMigration")]
+    [Migration("20241103102409_NewspaperAppMigration")]
     partial class NewspaperAppMigration
     {
         /// <inheritdoc />

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using WAD.Codebase._00019323.Data;
 using WAD.Codebase._00019323.DTOs;
 using WAD.Codebase._00019323.Interfaces;
